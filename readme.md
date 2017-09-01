@@ -13,7 +13,7 @@ Teensy 3.2 code for a simple 12 knob, 3 button midi controller.
 - Wiring buttons
     + Connect switch lugs to AGND, digi pins 0-2.
 
-Space PCB mount Alpha pots (or similiar) evenly on perfboard, and use attached drill guide to drill a hammond 150BB enclosure to mount the pot board easily in the enclosure.
+Space PCB mount Alpha pots (or similiar) evenly on perfboard, and use attached drill guide to drill a hammond 1590BBS enclosure to mount the pot board easily in the enclosure.
 
 Install the buttons_knobs.ino firmware using the arduino development environment.
 
