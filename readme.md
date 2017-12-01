@@ -5,7 +5,7 @@ Teensy 3.2 code for a simple 12 knob, 3 button midi controller.
     - 12 10K linear pots
     - 3 momentary on arcade style buttons
 - Wiring knobs
-    With pot pins facing down:
+    with pot pins facing down:
     + Connect rightmost leg to AGND.
     + Connect leftmost leg to 3.3V.
     + Connect middle leg to A0 pin.
